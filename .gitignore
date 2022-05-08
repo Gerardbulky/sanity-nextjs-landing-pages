@@ -7,3 +7,7 @@
 # lerna files
 /lerna-debug.log
 
+package-lock.json
+studio/config/.checksums
+studio/package-lock.json
+web/package-lock.json
