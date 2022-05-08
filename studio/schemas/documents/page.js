@@ -32,7 +32,7 @@ export default {
       name: 'description',
       type: 'text',
       title: 'Description',
-      description: 'This description populates meta-tags on the webpage9',
+      description: 'This description populates meta-tags on the webpage',
       fieldset: 'metadata',
     },
     {
