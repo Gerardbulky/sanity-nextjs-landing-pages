@@ -11,8 +11,7 @@
     "graphql-deploy": "lerna run graphql-deploy",
     "lint": "lerna run lint",
     "postinstall": "lerna bootstrap",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "next start"
+    "start": "node app.js"
   },
   "devDependencies": {
     "@sanity/cli": "^2.26.0",
