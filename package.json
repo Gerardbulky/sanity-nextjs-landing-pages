@@ -19,6 +19,7 @@
     "eslint": "^8.15.0",
     "lerna": "^4.0.0",
     "postcss": "^8.4.13",
-    "postcss-import": "^14.1.0"
+    "postcss-import": "^14.1.0",
+    "postcss-preset-env": "^7.5.0"
   }
 }
