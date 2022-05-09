@@ -15,6 +15,7 @@
   },
   "devDependencies": {
     "@sanity/cli": "^2.26.0",
+    "cssnano": "^5.1.7",
     "eslint": "^8.15.0",
     "lerna": "^4.0.0",
     "postcss": "^8.4.13",
