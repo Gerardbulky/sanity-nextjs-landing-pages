@@ -10,7 +10,7 @@
     "format": "lerna run format",
     "graphql-deploy": "lerna run graphql-deploy",
     "lint": "lerna run lint",
-    "postinstall": "lerna bootstrap",
+    "postinstall": "lerna bootstrap"
   },
   "devDependencies": {
     "@sanity/cli": "^2.26.0",
