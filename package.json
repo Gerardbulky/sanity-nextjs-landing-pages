@@ -12,7 +12,7 @@
     "lint": "lerna run lint",
     
     "postinstall": "npm install --prefix studio && npm install --prefix web",
-    "start": "lerna run build --parallel"
+    "start": "npm start --prefix server"
   },
   
   "devDependencies": {
