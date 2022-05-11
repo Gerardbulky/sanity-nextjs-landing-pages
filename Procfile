@@ -1,1 +1,1 @@
-web: npm start --prefix studio
+web: npm run dev
