@@ -1,1 +1,1 @@
-web: lerna run build --parallel
+web: npm start --prefix server
