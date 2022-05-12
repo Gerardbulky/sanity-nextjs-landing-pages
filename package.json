@@ -2,7 +2,7 @@
   "private": true,
   "name": "sanity-nextjs-landing-pages",
   "version": "1.0.12",
-  "start": "npm run dev && lerna run dev --parallel",
+  "start": "npm run dev && npm start",
   "scripts": {
     "build": "lerna run build --parallel",
     "build-web": "lerna bootstrap && (cd web && npm run build)",

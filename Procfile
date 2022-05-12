@@ -1,1 +1,1 @@
-web: npm run dev && lerna run dev --parallel
+web: npm run dev && npm start
